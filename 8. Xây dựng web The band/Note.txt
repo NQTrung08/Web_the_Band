@@ -1,0 +1,36 @@
+NOTE:
+1.Khi dùng thẻ label ta có for='' chỉ dùng đc cho id vì thế ta đặt cho input 
+    1 cái id ='quantity'
+
+2.
+-------------------------------------------------------
+
+Những thành phần thường gặp trên giao diện website:
+1. Header(Đầu trang)
+2. Navigation(Điều hướng) có thể nằm trong Header
+3. Breadcrumb (Phần hiển thị mình đang ở đâu)
+4. Sidebar (Thanh được đặt ở 1 phía của màn hình)
+5. Slider (Thường là hình ảnh chạy qua lại)
+6. Footer (Chân trang)
+7. Panner (Ảnh quảng cáo)
+
+----------------------------------------------------------
+
+1. Phân tích dự án:
+    1.Header
+    2.Slider
+    3.Content
+        1.About
+        2.Tour
+            1.Tour list
+            2.Buy Tickets
+                1.Container
+                    1.Header
+                    2.Body
+                    3.Footer
+        3.Contact
+        4.image
+        5.Footer
+    4.Footer
+
+2.Dựng base
