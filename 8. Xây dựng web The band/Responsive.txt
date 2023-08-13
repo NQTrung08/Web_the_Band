@@ -1,0 +1,17 @@
+Media queries: chuỗi truy vấn giúp khoanh vùng ra được 
+                từng vùng để viết css
+
+PC: >= 1024px
+
+
+TABLET: >=740px & < 1024px
+
+MOBILE: <740px 
+
+@media( max-with: 800px) {
+    0-800px thì đoạn CSS mới chạy
+}
+
+@media( min-with: 800px) {
+    800px-... thì đoạn CSS mới chạy
+}

@@ -1,0 +1,91 @@
+/* Pc */
+@media (min-width: 1024px) {
+
+}
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    
+}
+
+/* Mobile */
+@media (max-width: 740px) {
+    .s-full-width,
+    .s-col-full {
+        width: 100%;
+    }
+
+    #header {
+        overflow: hidden;
+    }
+    
+    #header .search-btn {
+        display: none;
+        
+    }
+        
+    #header .mobile-menu-btn {
+        
+        display: block;
+        
+    }
+    
+    #nav {
+        display: block;
+    }
+
+    #nav > li {
+        display: block;
+    }
+
+    #nav li a {
+
+        padding: 2px 24px;
+    }
+
+    #nav .subnav {
+        position: initial;
+        background-color: #333;
+    }
+
+    #nav .subnav a {
+        color: #fff;
+        padding: 6px 42px;
+        
+    }
+
+    #content .member-item {
+        margin-top: 30px;
+        width: 100%;
+    }
+
+    #content .member-img {
+        width: 60%;
+    }
+
+
+    .places-list {
+        margin-top: 16px;
+    }
+    .place-item {
+        width: 100%;
+        margin-top: 16px;
+    }
+
+    .contact-info {
+        line-height: 2.0;
+    }
+
+    .contact-form {
+        margin-top: 32px;
+        
+    }
+
+
+   
+
+    
+
+
+
+}
