@@ -577,6 +577,7 @@ html {
 
 .form-submit {
     margin-top: 8px;
+    margin-bottom: 16px;
     background-color: #000;
     color: #fff;
     padding: 10px 16px;
